@@ -13,16 +13,17 @@ The following diagram douments the process run by the script to generate the fin
 ## Usage example
 
 The script generates a bill document per row in the table. Sample of the billing design.
-<img src="example_billing.png" height="500px" style = "display: block;margin-left: auto;margin-right: auto;width: 100%;">
+<img src="example_billing.png" height="500px" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;">
 
 
 ## Development setup
 
-The script use the following lybraries
-
-<i>pandas</i>
-<i>psycopg2</i>
-<i>base64</i>
+The script use the following lybraries:
+<ul>
+    <li>pandas</li>
+    <li>psycopg2</li>
+    <li>base64</li>
+</ul>
 
 ## Contributing
 
