@@ -6,29 +6,15 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 The following diagram douments the process run by the script to generate the final bill.
-<img src="billing_generator.png" height="100px">
+<img src="billing_generator.png" height="500px">
 
 ![](header.png)
 
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+The script generates a bill document per row in the table. Sample of the billing design.
+<img src="example_billing.png" height="500px">
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
 
