@@ -6,23 +6,23 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 The following diagram douments the process run by the script to generate the final bill.
-<img src="billing_generator.png" height="500px" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src="billing_generator.png" height="500px" style = "display: block;margin-left: auto;margin-right: auto;width: 100%;">
 
 ![](header.png)
 
 ## Usage example
 
 The script generates a bill document per row in the table. Sample of the billing design.
-<img src="example_billing.png" height="500px" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src="example_billing.png" height="500px" style = "display: block;margin-left: auto;margin-right: auto;width: 100%;">
 
 
 ## Development setup
 
 The script use the following lybraries
 
-<b>pandas</b>
-<b>psycopg2</b>
-<b>base64</b>
+<i>pandas</i>
+<i>psycopg2</i>
+<i>base64</i>
 
 ## Contributing
 
