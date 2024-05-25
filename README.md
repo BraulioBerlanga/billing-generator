@@ -1,17 +1,16 @@
 # Billing Generator
-> The script reads, transforms and loads information from dataframe into unique PDF files to generate a detailed bill-form document.
-
 [![postgres][postgres-badge]][postgres-link][![python][python-badge]][python-link][![jupyter][jupyter-badge]][jupyter-link][![vsc][vsc-badge]][vsc-link]
+#### The script reads, transforms and loads information from a dataframe into unique PDF files to generate a detailed bill-form document.
 
-The following diagram douments the process run by the script to generate the final bill.
+#### The following diagram douments the process run by the script to generate the final bill.
 <img src="billing_generator.png" height="10%" width="25%" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;margin:10px;border-radius: 1rem;">
 
 ![](header.png)
 
 ## Usage example
 
-The script generates a bill document per row in the table. Sample of the billing design.
-<img src="example_billing.png" height="10%" width="25%" style = "display: block;margin-left: auto;margin-right: auto;width: 25%;margin:10px;border-radius: 1rem;">
+#### The script generates a bill document per row in the table. Sample of the billing design.
+<img src="example_billing.png" height="10%" width="25%" style = "display: center;border-radius: 1rem;">
 
 
 ## Development setup
@@ -25,6 +24,7 @@ Main libraries in main script:
 ## Contributing
 
 1.  [![Linkedin][linkedin-badge]][linkedin-url]
+2. <a href="https://www.glueckundfund.com/">Glueck und Fund</a>
 
 <!-- Markdown link & img dfn's -->
 [python-pandas-badge]: https://img.shields.io/badge/python-pandas-blue
